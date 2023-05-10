@@ -1,14 +1,14 @@
 # Type: Sensor Interface (Talon)
 # Make: GEMS
-# Model(s): Auxiliary Talon v1.4
+# Model(s): Auxiliary Talon v1.5
 
-#### [AuxTalon_LoadSwitch_1v4](AuxTalon_LoadSwitch_1v4.mnt) 
+#### [AuxTalon_LoadSwitch_1v5](AuxTalon_LoadSwitch_1v5.mnt) 
 Position file for surface mount parts
 
-#### [AuxTalon_LoadSwitch_1v4_2022-04-22](AuxTalon_LoadSwitch_1v4_2022-04-22.zip)
+#### [AuxTalon_LoadSwitch_1v5_2023-05-10](AuxTalon_LoadSwitch_1v5_2023-05-10.zip)
 Gerber files for Haar PCB
 
-#### [AuxTalon_LoadSwitch_1v4_BoM_2023-01-06](AuxTalon_LoadSwitch_1v4_BoM_2023-01-06.csv)
+#### [AuxTalon_LoadSwitch_1v5_BoM_2023-05-10](AuxTalon_LoadSwitch_1v5_BoM_2023-05-10.csv)
 Bill of Materials for PCB assembly 
 
 ## PCB
