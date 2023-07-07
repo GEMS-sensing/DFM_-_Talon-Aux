@@ -8,7 +8,7 @@ Position file for surface mount parts
 #### [AuxTalon_LoadSwitch_1v5_2023-05-10](AuxTalon_LoadSwitch_1v5_2023-05-10.zip)
 Gerber files for Haar PCB
 
-#### [AuxTalon_LoadSwitch_1v5_BoM_2023-05-10](AuxTalon_LoadSwitch_1v5_BoM_2023-05-10.csv)
+#### [AuxTalon_LoadSwitch_1v5_BoM_2023-07-07](AuxTalon_LoadSwitch_1v5_BoM_2023-07-07.csv)
 Bill of Materials for PCB assembly 
 
 ## PCB
